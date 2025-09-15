@@ -7,6 +7,10 @@
 ! Allow Personal Domains
 @@||knightfall.tech^$important
 #
+! Allow AI Sites for Admin Devices
+@@||chatgpt.com^$important,ctag=user_admin
+@@||copilot.microsoft.com^$important,ctag=user_admin
+#
 ! Allow AdGuard DNS for Admin Devices
 @@||adguard-dns.com^$important,ctag=user_admin
 @@||adguard-dns.io^$important,ctag=user_admin
@@ -32,6 +36,12 @@
 ! Allow WireGuard for Admin Devices
 @@||wireguard.com^$important,ctag=user_admin
 #
+! Allow Microsoft Family Safety Reporting for Select Microsoft Devices
+@@||events.data.microsoft.com^$important,client=jodie-laptop|caitlin-laptop|batbox
+#
+! Allow Location Services for Windows OS Devices
+@@||inference.location.live.net^$important,ctag=os_windows
+#
 ! Allow Unrestricted Google, DuckDuckGo and Bing Search for Admin Devices
 @@www.google.com^$important,ctag=user_admin
 @@www.google.co.uk^$important,ctag=user_admin
@@ -47,10 +57,4 @@
 @@youtubei.googleapis.com^$important,ctag=user_regular|user_admin
 @@youtube.googleapis.com^$important,ctag=user_regular|user_admin
 @@www.youtube-nocookie.com^$important,ctag=user_regular|user_admin
-#
-! Allow Microsoft Family Safety Reporting
-@@||events.data.microsoft.com^$important,client=jodie-laptop|caitlin-laptop|batbox
-#
-! Allow Location Services on Windows Devices
-@@||inference.location.live.net^$important,ctag=os_windows
 #
