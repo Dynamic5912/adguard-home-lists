@@ -9,6 +9,7 @@
 #
 ! Allow AI Sites for Admin Devices
 @@||chatgpt.com^$important,ctag=user_admin
+@@||openai.com^$important,ctag-user_admin
 @@||copilot.microsoft.com^$important,ctag=user_admin
 #
 ! Allow AdGuard DNS for Admin Devices
