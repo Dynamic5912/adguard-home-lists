@@ -2,6 +2,7 @@
 ! Global Allowlist
 @@||tags.tiqcdn.com^$important
 @@||centricabritishgas.sc.omtrdc.net^$important
+@@||britishairways.sc.omtrdc.net^$important
 @@||ipinfo.io^$important
 #
 ! Allow Personal Domains
