@@ -4,9 +4,6 @@
 ! To fully block ANY part of the domain name you must wildcard the rule as follows
 ! ||*domainhostname*.*^$important,client=CLIENTNAME
 #
-! Block WPAD Domain
-||wpad.knightfall^$important
-#
 ! Block Malicious TLDs
 ||zip^$important
 ||mov^$important
