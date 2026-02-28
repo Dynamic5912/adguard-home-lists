@@ -13,7 +13,11 @@
 @@||oaistatic.com^$important,ctag=user_admin
 @@||oaiusercontent.com^$important,ctag=user_admin
 @@||openai.com^$important,ctag=user_admin
+@@||copilot.ai^$important,ctag=user_admin
+@@||copilot.cloud.microsoft^$important,ctag=user_admin
+@@||copilot.com^$important,ctag=user_admin
 @@||copilot.microsoft.com^$important,ctag=user_admin
+@@||copilotstudio.microsoft.com^$important,ctag=user_admin
 #
 ! Allow AdGuard DNS for Admin Devices
 @@||adguard-dns.com^$important,ctag=user_admin
