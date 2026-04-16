@@ -8,6 +8,13 @@
 ! Allow Personal Domains
 @@||knightfall.tech^$important
 #
+! Allow Internal Domains
+@@||management.home.arpa^$important
+@@||trusted.home.arpa^$important
+@@||iot.home.arpa^$important
+@@||guest.home.arpa^$important
+@@||kids.home.arpa^$important
+#
 ! Allow AI Sites for Admin Devices
 @@||chatgpt.com^$important,ctag=user_admin
 @@||oaistatic.com^$important,ctag=user_admin
