@@ -40,7 +40,7 @@
 ||ly^$important
 ||mc^$important
 ||md^$important
-||me^$important
+# ||me^$important # Blocks too many legitimate domains - remains blocked in Unifi
 ||ml^$important
 ||mm^$important
 ||na^$important
