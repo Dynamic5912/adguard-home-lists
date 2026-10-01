@@ -3,6 +3,10 @@
 ! ||domainhostname.*^$important,client=CLIENTNAME
 ! To fully block ANY part of the domain name you must wildcard the rule as follows
 ! ||*domainhostname*.*^$important,client=CLIENTNAME
+%
+! Browser DNS Bypass
+||dns-tunnel-check.googlezip.net^$dnsrewrite=NXDOMAIN
+||use-application-dns.net^$dnsrewrite=NXDOMAIN
 #
 ! Block Malicious TLDs
 ||zip^$important
