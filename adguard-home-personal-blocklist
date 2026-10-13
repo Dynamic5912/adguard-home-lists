@@ -33,7 +33,7 @@
 ||gw^$important
 ||hk^$important
 ||ht^$important
-||in^$important,$denyallow=lnkd.in
+||in^$important,denyallow=lnkd.in
 ||iq^$important
 ||ir^$important
 ||ke^$important
