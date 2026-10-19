@@ -45,7 +45,9 @@
 @@||vpn.protondownload.com^$important,ctag=user_admin
 @@||vpncdn.protonweb.com^$important,ctag=user_admin
 #
-! Allow TOR for Admin Devices
+! Allow Tor for Admin Devices
+@@||torproject.com^$important,ctag=user_admin
+@@||torproject.net^$important,ctag=user_admin
 @@||torproject.org^$important,ctag=user_admin
 #
 ! Allow Mullvad for Admin Devices
