@@ -42,6 +42,8 @@
 @@||protonvpn.com^$important,ctag=user_admin
 @@||protonvpn.net^$important,ctag=user_admin
 @@||proton.me^$important,ctag=user_admin
+@@||vpn.protondownload.com^$important,ctag=user_admin
+@@||vpncdn.protonweb.com^$important,ctag=user_admin
 #
 ! Allow TOR for Admin Devices
 @@||torproject.org^$important,ctag=user_admin
