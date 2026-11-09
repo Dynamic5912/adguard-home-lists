@@ -13,14 +13,14 @@
 ||mov^$important
 #
 ! Block Country TLDs
-||af^$important
-||ao^$important
-||ba^$important
-||bg^$important
-||bi^$important
-||br^$important
-||by^$important
-||cd^$important
+||*.af^$important
+||*.ao^$important
+||*.ba^$important
+||*.bg^$important
+||*.bi^$important
+||*.br^$important
+||*.by^$important
+||*.cd^$important
 ||cf^$important
 ||ci^$important
 ||cm^$important
